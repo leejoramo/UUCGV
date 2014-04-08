@@ -1,4 +1,6 @@
-> 0.1 Draft of 2014 Bylaw Revisions
+> 0.3 Draft of 2014 Bylaw Revisions
+
+> Changes based on the meeting with Vice-President MaryAnne, Rev. Wendy and the LDT 
 
 # BYLAWS OF THE UNITARIAN UNIVERSALIST CONGREGATION OF THE GRAND VALLEY
 
@@ -9,6 +11,9 @@
 The name of this organization shall be the Unitarian Universalist Congregation of the Grand Valley, located in Grand Junction, Colorado.
 
 ## Article ???: Definitions ##
+
+Board
+:   UUCGV Board of Trustees
 
 COM
 :	UUCGV's Committee on Ministry
@@ -128,15 +133,15 @@ Delegates shall be appointed by the Board.
 
 ### Section A: Annual Congregational Meetings
 
-There shall be an annual congregational meeting, called and led by the Board of Trustees, at which official business of the Church will be transacted.
+There shall be an annual congregational meeting, called and led by the Board, at which official business of the Church will be transacted.
 
-1. **Date of meeting:** the annual congregational meeting shall be held each year in the month of May or June at such time and place as designated by the Board of Trustees.
+1. **Date of meeting:** the annual congregational meeting shall be held each year in the month of May or June at such time and place as designated by the Board.
 
 2. **Purpose:** the purpose of the annual congregational meeting shall be to elect board officers and trustees, team leaders designated in the Bylaws, members of the Leadership Development Team, to adopt the budget for the following fiscal year, and to adopt the yearly reports of the Minister, officers and teams.
 
 ### Section B: Special Congregational Meetings
 
-Special congregational meetings may be called by the Board of Trustees when deemed necessary. A special congregational meeting shall be called by the Board when ten percent (10%) of the voting members submit a written request stating the purpose for the meeting.
+Special congregational meetings may be called by the Board when deemed necessary. A special congregational meeting shall be called by the Board when ten percent (10%) of the voting members submit a written request stating the purpose for the meeting.
 
 ### Section C: Notice of Meetings
 
@@ -148,7 +153,7 @@ A quorum for the annual congregational meeting, or for any special congregationa
 
 ### Section E: Voting
 
-1. **Proxy Votes:** Proxy votes shall be available to members who cannot attend a given meeting for reasons of incapacitation or travel. A member may cast a proxy vote for only one other member. The Board of Trustees shall establish procedures for the administration of the proxy vote as needed.
+1. **Proxy Votes:** Proxy votes shall be available to members who cannot attend a given meeting for reasons of incapacitation or travel. A member may cast a proxy vote for only one other member. The Board shall establish procedures for the administration of the proxy vote as needed.
 
 2. **Secret Ballots:** The vote on any matter shall be by secret ballot on the request of any member. Votes to call or dismiss a minister or assume a debt of over $5,000 shall be by secret ballot.
 
@@ -162,11 +167,11 @@ A quorum for the annual congregational meeting, or for any special congregationa
 
 ### Section A: Qualifications
 
-Only voting members of the Church may serve on the Board of Trustees.
+Only voting members of the Church may serve on the Board.
 
 ### Section B: Membership
 
-Members of the Board of Trustees shall include the immediate Past President, the President, the Vice-President, the Treasurer, the Stewardship Leader and three (3) Members-at-Large. The Minister and Director of Religious Education (DRE) shall serve as an ex-officio, non voting members.
+Members of the Board shall include the immediate Past President, the President, the Vice-President, the Treasurer, the Stewardship Leader and three (3) Members-at-Large. The Minister and Director of Religious Education (DRE) shall serve as an ex-officio, non voting members.
 
 > Lee: Job: Past-President #elected #1
 
@@ -184,17 +189,17 @@ Members of the Board of Trustees shall include the immediate Past President, the
 
 ### Section C: Terms of Office
 
-The terms of office for the members of the Board of Trustees shall be for one year, starting at the beginning of the fiscal year, July 1, and ending on June 30 of the following year. 
+The terms of office for the members of the Board shall be for one year, starting at the beginning of the fiscal year, July 1, and ending on June 30 of the following year. 
 
 ### Section D: Term Limits
 
-Term limits for the Board of Trustees shall be two consecutive terms for officers and  for at-large members. At least one year must elapse from the end of the previous term before an officer or at-large member is eligible for re-election to the Board of Trustees in the same role.
+Term limits for the Board shall be two consecutive terms for officers and  for at-large members. At least one year must elapse from the end of the previous term before an officer or at-large member is eligible for re-election to the Board in the same role.
 
 ### Section E: Termination/Removal
 
 1. **Automatic Termination:** Failure of an officer or trustee to attend three consecutive regular board meetings or four of any six consecutive regular board meetings without prior notification to the President or Vice-President shall be an automatic resignation without further action or notice.
 
-2. **Removal for Cause:** Removal for cause of an officer or trustee requires a two-thirds (2/3) vote of the Board of Trustees.
+2. **Removal for Cause:** Removal for cause of an officer or trustee requires a two-thirds (2/3) vote of the Board.
 
 ### Section F: Board Duties and Responsibilities
 
@@ -222,7 +227,7 @@ The executive committee of the Board shall include the President, Vice President
 ### Section H: Officer Duties and Responsibilities
 
 1. **President:** 
-	1. The President shall preside at all meetings of the Board of Trustees and all meetings of the Congregation
+	1. The President shall preside at all meetings of the Board and all meetings of the Congregation
 	2. represent the Church on all appropriate occasions
 	3. fill vacancies on the Board between Annual Meetings by appointment with the consent of the Board. 
 	4. perform such other duties as usually pertain to the office, such as signing legal documents, etc. 
@@ -283,7 +288,7 @@ Terms of office for each of the elected standing team leaders shall be one year.
 
 ### Section C: Termination/Removal
 
-Removal for cause of a Team Leader requires a two-thirds (2/3) vote of the Board of Trustees.
+Removal for cause of a Team Leader requires a two-thirds (2/3) vote of the Board.
 
 ### Section D: Team Leader Duties
 
@@ -303,7 +308,7 @@ Team Leaders (or their representatives) shall:
 
 	1. Reports primarily to the Board
 	2. be led by the Treasurer
-	3. assist the Board of Trustees in the formulation of the annual goal budget, prior to the Annual Canvass
+	3. assist the Board in the formulation of the annual goal budget, prior to the Annual Canvass
 	4. assist in the periodic adjustment of the budget in terms of actual income
 	5. review all insurance policies and recommend any needed changes to the Board 
 	6. supervise payroll, retirement plan, and employee health insurance payments
@@ -324,8 +329,8 @@ Team Leaders (or their representatives) shall:
  
 4. **Leadership Development Team**: The Leadership Development Team shall be composed of three Voting Members serving alternating terms of 3 years. The LDT shall :
     
-    1. solicit qualified candidates for all team leaders, positions on the Board of Trustees, TLC, and make any other leadership recommendations as requested by the Board. 
-    2. submit the names of nominees to the Board of Trustees at least thirty (30) days before the annual Congregational Meeting. 
+    1. solicit qualified candidates for all team leaders, positions on the Board, TLC, and make any other leadership recommendations as requested by the Board. 
+    2. submit the names of nominees to the Board at least thirty (30) days before the annual Congregational Meeting. 
     3. Be the responsibility of the Leadership Development Team to canvass the congregation and identify interested parties to fill open positions.
     4. shall report to the Board
     5. Act as the Facilitator for the TLC meetings and provide Mentorship to the TLC members
@@ -376,7 +381,7 @@ Team Leaders (or their representatives) shall:
 	
 	> Lee: Job: Adult RE Team Leader #elected #1	
 
-13. **Ad Hoc Teams:** The Board of Trustees may appoint ad hoc teams  as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
+13. **Ad Hoc Teams:** The Board may appoint ad hoc teams  as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
 
 ## Article IX: COMMITTEE ON MINISTRY (COM) 
 
@@ -419,15 +424,15 @@ The Minister shall be responsible for:
 
 ### Section D: Committee Membership
 
-The Minister shall be a non-voting ex officio member of the Board of Trustees and all teams. The Minister shall participate in the TLC's calendar planning sessions. Shall bring to the attention of the Board, TLC and COM all matters which seem pertinent to the general welfare of the congregation and shall make recommendations as seem proper. However, the decision in matters of policy and procedure shall remain with the Board of Trustees.
+The Minister shall be a non-voting ex officio member of the Board and all teams. The Minister shall participate in the TLC's calendar planning sessions. Shall bring to the attention of the Board, TLC and COM all matters which seem pertinent to the general welfare of the congregation and shall make recommendations as seem proper. However, the decision in matters of policy and procedure shall remain with the Board.
 
 ### Section E: Freedom of Expression
 
-The Minister shall have freedom of the pulpit. The minister shall have the freedom to express her or his opinions outside the pulpit, but shall not represent the Church without authorization from the Board of Trustees.
+The Minister shall have freedom of the pulpit. The minister shall have the freedom to express her or his opinions outside the pulpit, but shall not represent the Church without authorization from the Board.
 
 ### Section F: Resignation or Retirement
 
-The Minister shall give at least ninety (90) days notice in writing to the Board of Trustees of her or his resignation or retirement.
+The Minister shall give at least ninety (90) days notice in writing to the Board of her or his resignation or retirement.
 
 ### Section G: Dismissal
 
