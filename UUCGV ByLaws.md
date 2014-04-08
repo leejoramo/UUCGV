@@ -255,16 +255,61 @@ The executive committee of the Board shall include the President, Vice President
 
 > Move stewardship leader to board. Need job description
 
-## Article ???: Team Leadership Circle
+## Article ???: Team Leadership Circle (TLC)
 
-The Team Leadership Circle (TLC) shall : 
+### Section A: Qualifications
 
-1. be composed of six elected voting members
-2. shall have a monthly meeting
-3. shall Report to the Board
-4. shall 
+Only voting members of the Church may serve on the TLC.
 
-1. 
+### Section B: Membership
+
+There shall be six (6) TLC Leaders. 
+
+> Lee: Job: TLC Members #elected #6
+
+### Section C: Terms of Office
+
+The terms of office for the TLC Leaders shall be for one year, starting at the beginning of the fiscal year, July 1, and ending on June 30 of the following year. 
+
+
+
+### Section D: Term Limits
+
+Term limits for the TLC shall meet the following conditions:
+
+* TLC Leaders are limited to maximum of three (3) consecutive years 
+* At least, One-third of the TLC Leadership shall be replaced every year.
+* At least one year must elapse from the end of the previous term before an  member is eligible for re-election to the TLC.
+* There is no expectation or requirement for TLC Leaders to server for more than one Term. 
+
+### Section E: Termination/Removal
+
+1. **Automatic Termination:** Failure of a TLC Leader to attend three consecutive regular meetings or four of any six consecutive regular meetings without prior notification to the TLC shall be an automatic resignation without further action or notice.
+
+2. **Removal for Cause:** Removal for cause of an TLC Leader requires a two-thirds (2/3) vote of the Board.
+
+### Section F: TLC Duties and Responsibilities
+
+The TLC shall administer and manage the Program of the church. The Board shall be responsible for: 
+
+1. monthly TLC meetings
+2. reports to the Board
+3. Collaborates with the Minister on Program related items.
+4. Collaborates with the Board and Minister to fullfil the Mission and Vision.
+5. co-ordinating the Program related activities of the Teams
+6. hold an annual meeting to create the Church Program Calendar and establish program goals and themes for the coming year. 
+7. recommending to the Board the creation of program related of ad-hoc teams
+
+>
+> As a guiding principle for the TLC's area of responsibility, if something: 
+>
+> * can be put on a calendar
+> * is related to the church program
+> * is not otherwise described in the Bylaws or Policy
+>
+> Then it is the responsibility of the TLC.  
+>    
+    
 
 ## Article VIII: TEAMS
 
