@@ -384,16 +384,6 @@ Team Leaders (or their representatives) shall:
 	
 	> Lee: Job: Leadership Development Team #elected #3	
 
-5. **Property Team:** The Property Team shall be responsible for the maintenance and repair of Church property. It shall: 
-
-    1. Reports to the Board 
-    2. function as the liaison between the Board and other parties (such as contractors, landlords, etc)
-    3. assure the good management and stewardship of entrusted properties and resources
-    4. identify problems related to the space rental or owned property and make recommendations to the Board
-    5. shall be responsible for the maintenance and repair of any other real property or major equipment and furniture which the Congregation may own or acquire
-
-	> Lee: Job: Property Team Leader #elected #1
-	
 7. **Care Team:** The Care Team shall 
 
 	1. Shall report to the COM
@@ -492,4 +482,16 @@ Should the Unitarian Universalist Congregation of the Grand Valley cease to func
 > Move to Article VI: Meetings, Section F
 
 The Bylaws may be amended or replaced at the Annual Congregation Meeting or a Special Congregation Meeting of the Congregation, by a two-thirds (2/3) vote of those Voting Members present, providing that a quorum is present at the meeting. The notice of the meeting at which amendments will be considered shall include a copy of the proposed amendments. The text of any proposed amendment may be changed at the meeting prior to adoption by a simple majority vote of the voting members present.
+
+# Move to Policy 
+
+## Ad-Hoc Teams
+
+5. **Property Team:** The Property Team shall be responsible for the maintenance and repair of Church property. It shall: 
+
+    1. Reports to the Board 
+    2. function as the liaison between the Board and other parties (such as contractors, landlords, etc)
+    3. assure the good management and stewardship of entrusted properties and resources
+    4. identify problems related to the space rental or owned property and make recommendations to the Board
+    5. shall be responsible for the maintenance and repair of any other real property or major equipment and furniture which the Congregation may own or acquire
 
