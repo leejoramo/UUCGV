@@ -171,7 +171,7 @@ Only voting members of the Church may serve on the Board.
 
 ### Section B: Membership
 
-Members of the Board shall include the immediate Past President, the President, the Vice-President, the Treasurer, the Stewardship Leader and three (3) Members-at-Large. The Minister and Director of Religious Education (DRE) shall serve as an ex-officio, non voting members.
+Members of the Board shall include the immediate Past President, the President, the Vice-President, the Treasurer, the Stewardship Leader and three (3) Members-at-Large. 
 
 > Lee: Job: Past-President #elected #1
 
@@ -231,11 +231,11 @@ The executive committee of the Board shall include the President, Vice President
 	2. represent the Church on all appropriate occasions
 	3. fill vacancies on the Board between Annual Meetings by appointment with the consent of the Board. 
 	4. perform such other duties as usually pertain to the office, such as signing legal documents, etc. 
-	5. be an ex-officio member of all Teams.  
+	5. be an ex-officio member of the TLC and all Standing or Ad-Hoc Teams. 
 
 2. **Vice President:** 
 	1. The Vice President shall act in the absence of, or at the request of, the President, at which time the Vice President shall have all powers and functions applicable to the President. 
-	2. be an ex-officio member of all teams. 
+	2. be an ex-officio member of the TLC and all Standing or Ad-Hoc Teams. 
 	3. perform such functions and duties as may be specified by the Board.
 
 3. **Treasurer:** 
@@ -424,7 +424,7 @@ The Minister shall be responsible for:
 
 ### Section D: Committee Membership
 
-The Minister shall be a non-voting ex officio member of the Board and all teams. The Minister shall participate in the TLC's calendar planning sessions. Shall bring to the attention of the Board, TLC and COM all matters which seem pertinent to the general welfare of the congregation and shall make recommendations as seem proper. However, the decision in matters of policy and procedure shall remain with the Board.
+The Minister shall be a non-voting ex-officio member of the Board, the TLC and all Standing or Ad-Hoc Teams. The Minister shall participate in the TLC's calendar planning sessions. Shall bring to the attention of the Board, TLC and COM all matters which seem pertinent to the general welfare of the congregation and shall make recommendations as seem proper. However, the decision in matters of policy and procedure shall remain with the Board.
 
 ### Section E: Freedom of Expression
 
