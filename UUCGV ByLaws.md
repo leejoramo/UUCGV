@@ -1,6 +1,6 @@
-> 0.3 Draft of 2014 Bylaw Revisions
+> 0.4 Draft of 2014 Bylaw Revisions
 
-> Changes based on the meeting with Vice-President MaryAnne, Rev. Wendy and the LDT 
+> Changes based 2014-04-15 meeting of the Board with President Lee Joramo, Vice- President MaryAnne Winniford, Past-President Gary Dolezal, Treasurer Tim O'Brien, Trustee Jay Martinez 
 
 # BYLAWS OF THE UNITARIAN UNIVERSALIST CONGREGATION OF THE GRAND VALLEY
 
@@ -10,32 +10,23 @@
 
 The name of this organization shall be the Unitarian Universalist Congregation of the Grand Valley, located in Grand Junction, Colorado.
 
-## Article ???: Definitions ##
+## Article ???: Abbrevations ##
 
-Board
-:   UUCGV Board of Trustees
+In this document the following will be referred to by the following acronyms:
 
-COM
-:	UUCGV's Committee on Ministry
+UUCGV : Unitarian Universalist Congregation of the Grand Valley
 
-LDT
-:	UUCGV's Leadership Development Team
+COM: UUCGV's Committee on Ministry
 
-MDD
-:	Mountain Desert District
+LDT : UUCGV's Leadership Development Team
 
-PWR
-:	Pacific Western Region
+MDD : Mountain Desert District
 
-TLC
-:	UUCGV's Team Leadership Circle
+PWR : Pacific Western Region
 
-UUA
-:	Unitarian Universalist Association
+TLC :UUCGV's Team Leadership Circle
 
-UUCGV
-:	Unitarian Universalist Congregation of the Grand Valley
-
+UUA :Unitarian Universalist Association
 
 ## Article II: PRINCIPLES, MISSION, VISION, COVENANT 
 
@@ -43,7 +34,7 @@ UUCGV
 
 1. The inherent worth and dignity of every person;
 2. Justice, equity and compassion in human relations;
-3rd Principle: Acceptance of one another and encouragement to spiritual growth in our congregations;
+3. Acceptance of one another and encouragement to spiritual growth in our congregations;
 4. A free and responsible search for truth and meaning;
 5. The right of conscience and the use of the democratic process within our congregations and in society at large;
 6. The goal of world community with peace, liberty, and justice for all;
@@ -82,11 +73,11 @@ The church year and the fiscal year shall begin on July 1 of each year and end o
 1. Members shall be at least fifteen (15) years of age 
 2. Agree generally with the Mission and Vision Statements of the UUCGV and the principles of the UUA. 
 3. Members shall agree to behave in accordance with the UUCGV Covenant of Right Relations, and shall agree to participate in the processes of Beloved Community.
-4. Members shall actively contribute their time to the church via participation in church leadership or on teams.
+4. Members shall actively contribute their time to the church as they are able via participation in church leadership, on teams or in other tangible ways.
 
 ### Section B: Non-Discrimination
 
-It is specifically understood that membership is open to all qualified persons regardless of race, color, sex, affectional or sexual orientation, gender identity, age, education, social economic status political affiliations or national origin.
+It is specifically understood that membership is open to all qualified persons regardless of race, color, sex, affectional or sexual orientation, gender identity, age, education, social economic status, political affiliations or national origin.
 
 ### Section C: Method of Joining
 
@@ -115,7 +106,7 @@ The official membership number submitted annually to the Unitarian Universalist 
 
 ### Section E: Termination/Removal
 
-Termination and/or removal from membership shall be by written request, by moving from the community (unless such person requests continuance), or by voluntarily being inactive for a period of one (1) year.
+Termination and/or removal from membership shall be by written request of the member, by moving from the community (unless such person requests continuance), or by voluntarily being inactive for a period of one (1) year.
 
 ### Section F: Membership List
 
@@ -137,11 +128,11 @@ There shall be an annual congregational meeting, called and led by the Board, at
 
 1. **Date of meeting:** the annual congregational meeting shall be held each year in the month of May or June at such time and place as designated by the Board.
 
-2. **Purpose:** the purpose of the annual congregational meeting shall be to elect board officers and trustees, team leaders designated in the Bylaws, members of the Leadership Development Team, to adopt the budget for the following fiscal year, and to adopt the yearly reports of the Minister, officers and teams.
+2. **Purpose:** the purpose of the annual congregational meeting shall be to elect board officers and trustees, team leaders designated in the Bylaws, members of the Leadership Development Team, to adopt the budget for the following fiscal year, and to adopt the yearly reports of the Minister, officers and teams, and other business that may require a congregational vote.
 
 ### Section B: Special Congregational Meetings
 
-Special congregational meetings may be called by the Board when deemed necessary. A special congregational meeting shall be called by the Board when ten percent (10%) of the voting members submit a written request stating the purpose for the meeting.
+Special congregational meetings may be called by the Board when deemed necessary, or in the event that ten percent (10%) of the voting members submit a written request stating the purpose for the meeting.
 
 ### Section C: Notice of Meetings
 
@@ -159,15 +150,15 @@ A quorum for the annual congregational meeting, or for any special congregationa
 
 3. **Voting Majorities:** A simple majority of the voting members present (including votes by proxy), providing that a quorum is present, will be sufficient to pass any item presented at the annual congregational meeting, or for any special congregational meeting, with the exceptions of 1) amendments to the bylaws 2) the calling of a minister, or 3) the dismissal of a minister, all of which shall require a two-thirds (2/3) vote.
 
-### Section F: AMENDMENTS
+### Section F: CHANGES TO THE BYLAWS
 
-> Move Article XIV: AMENDMENTS here
+	> we don't actually admend our bylaws. We revise. put revision text here.
 
 ## Article VII: BOARD OF TRUSTEES
 
 ### Section A: Qualifications
 
-Only voting members of the Church may serve on the Board.
+Only voting members of one (1) year or more in the Church may serve on the Board.
 
 ### Section B: Membership
 
@@ -219,15 +210,16 @@ The Board shall administer and manage the business of the church. The Board shal
 12. appointments of ad-hoc teams
 13. communicating with teams 
 14. reviewing and approving policies and procedures. 
+15. receiving recommendations for agenda items and setting agenda items
 
 ### Section G: Executive Committee
 
-The executive committee of the Board shall include the President, Vice President, Treasurer and Past President. The Executive Team may make emergency decisions with a vote of three of its members. Any emergency decisions will be communicated immediately to the full Board, TLC Leaders and Minister. 
+The executive committee of the Board shall include the President, Vice President, Treasurer and Past President. The Executive Committee shall meet as necessary. The Executive Team may make emergency decisions with a vote of three of its members. Any emergency decisions will be communicated immediately to the full Board, TLC Leaders and Minister. 
 
 ### Section H: Officer Duties and Responsibilities
 
 1. **President:** 
-	1. The President shall preside at all meetings of the Board and all meetings of the Congregation
+	1. shall preside at all meetings of the Board and all meetings of the Congregation
 	2. represent the Church on all appropriate occasions
 	3. fill vacancies on the Board between Annual Meetings by appointment with the consent of the Board. 
 	4. perform such other duties as usually pertain to the office, such as signing legal documents, etc. 
@@ -240,22 +232,34 @@ The executive committee of the Board shall include the President, Vice President
 
 3. **Treasurer:** 
 
-	1. The Treasurer shall receive, safely keep and account for all money and other property of the church entrusted to his or her care, and shall disburse the same under the direction of and to the satisfaction of the Board
+The Treasurer shall lead the Finance Team.
+
+The Treasurer shall be responsible for the excutution or delegation and oversight of the following tasks.
+
+	2.  safely keep and account for all money and other property of the church entrusted to his or her care, and shall disburse the same under the direction of and to the satisfaction of the Board
 	2. maintain a current roster of the pledging units and their pledges
 	3. maintain a complete accounting of the financial record of the church which shall remain the property of the church, and which shall be open for inspection by any member of the church.  
 	4. shall ensure that all federal, state or local returns, reports or other items required by law are properly prepared and filed with the appropriate authorities in a timely manner. 
 	5. shall present a report of all transactions and of the financial status of the church at the monthly board meetings
 	6. shall prepare the annual financial report of the church for the annual congregational meeting. 
 	7. shall furnish a statement to all pledge units at least twice a year, detailing the status of their pledges. 
-	8. shall lead the Finance Team. 
 	9. shall perform such other functions as may be specified by the Board. 
 	10. at the discretion of the Board the Treasurer shall be bonded by the church in such amount the Board may determine.
 
-	> Lee: Comment: We should look at seeing if some of these responsibilities can be moved to the Finance Team.
+4. ** Past-President**
 
-4. **Stewardship:** 
+	1. Provide Board with historical advice. 
+
+### Section I: Other Trustee Duties and Responsibilities ###
+
+1. **Stewardship:** 
 
 > Move stewardship leader to board. Need job description
+
+2. **Trustees At-Large**
+
+	1. task items
+	2. In the community & special tasks
 
 ## Article ???: Team Leadership Circle (TLC)
 
@@ -492,6 +496,8 @@ Should the Unitarian Universalist Congregation of the Grand Valley cease to func
 
 > Move to Article VI: Meetings, Section F
 
+	> remove amendment 
+	
 The Bylaws may be amended or replaced at the Annual Congregation Meeting or a Special Congregation Meeting of the Congregation, by a two-thirds (2/3) vote of those Voting Members present, providing that a quorum is present at the meeting. The notice of the meeting at which amendments will be considered shall include a copy of the proposed amendments. The text of any proposed amendment may be changed at the meeting prior to adoption by a simple majority vote of the voting members present.
 
 # Items to remove from Bylaws and move to Policy or other places
