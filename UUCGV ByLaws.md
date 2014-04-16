@@ -107,7 +107,7 @@ Voting Members shall be:
 A current contribution shall be:
 
 * A financial contribution of record  during the last 12 months
-* Or  the Board may approve “in kind” donation of work time or talent
+* Or the Board may approve “in kind” donation of work time or talent
 
 In case of an emergency meeting, the Board may reduce the 60-day requirement. 
 
@@ -222,7 +222,7 @@ The Board shall administer and manage the business of the church. The Board shal
 
 ### Section G: Executive Committee
 
-The executive committee of the Board shall include the President, Vice President, Treasurer and Past President and it shall be its responsibility to set the regular Board Meeting agenda, make recommendations for appointments, and other matters assigned by the Board.
+The executive committee of the Board shall include the President, Vice President, Treasurer and Past President. The Executive Team may make emergency decisions with a vote of three of its members. Any emergency decisions will be communicated immediately to the full Board, TLC Leaders and Minister. 
 
 ### Section H: Officer Duties and Responsibilities
 
@@ -250,6 +250,8 @@ The executive committee of the Board shall include the President, Vice President
 	8. shall lead the Finance Team. 
 	9. shall perform such other functions as may be specified by the Board. 
 	10. at the discretion of the Board the Treasurer shall be bonded by the church in such amount the Board may determine.
+
+	> Lee: Comment: We should look at seeing if some of these responsibilities can be moved to the Finance Team.
 
 4. **Stewardship:** 
 
@@ -300,16 +302,13 @@ The TLC shall administer and manage the Program of the church. The Board shall b
 6. hold an annual meeting to create the Church Program Calendar and establish program goals and themes for the coming year. 
 7. recommending to the Board the creation of program related of ad-hoc teams
 
->
-> As a guiding principle for the TLC's area of responsibility, if something: 
->
-> * can be put on a calendar
-> * is related to the church program
-> * is not otherwise described in the Bylaws or Policy
+> Lee: Comment:
+> As a guiding principle for the TLC's area of responsibility, if something:   
+> can be put on a calendar,
+> is related to the church program,
+> is not otherwise described in the Bylaws or Policy
 >
 > Then it is the responsibility of the TLC.  
->    
-    
 
 ## Article VIII: TEAMS
 
@@ -317,7 +316,7 @@ UUCGV is organized around Teams responsible for conducting the work of the Churc
 
 Standing Teams are described in the bylaws. The Leaders of Standing Teams are elected at the Annual Meeting and are subject Term Limits. 
 
-Ad-Hoc Teams are created by the Board either via Policies or on a temporary basis. Leaders of Ad-Hoc Teams are appointed not subject to Term Limits. 
+Ad-Hoc Teams are created by the Board either via Policies and may be temporary or continuing in nature. Leaders of Ad-Hoc Teams are appointed by the Board. 
 
 > Lee: Note: will the TLC have the ability to create Ad-Hoc Teams? Maybe the TLC can propose Ad-Hoc Teams for approval of the Board. This allows the Board to review the proposed Ad-Hoc Team Leader for meeting the Qualifications. 
 
@@ -329,96 +328,107 @@ Only voting members of the church may serve as Team Leaders. Non-voting members 
 
 ### Section B: Terms of Office and Term Limits
 
-Terms of office for each of the elected standing team leaders shall be one year. Team leaders appointed to fill vacancies mid-year do not incur term limits until elected. Term limits shall be two consecutive terms as leader of the same team. The board may infrequently waive the two term maximum requirement for a single year only with approval from the congregation. At least one year must elapse from the end of the previous term before a team leader is eligible for re-election as leader of the same team. 
+#### Standing Team Leaders
+
+As specified in the Bylaws team descriptions, the Standing Team Leaders are drawn from the Board, TLC and COM. They are subject to the Terms of Office of their elected position.
+
+#### Ad-Hoc Team Leaders
+
+Terms of office for appointed ad-hoc team leaders shall be for one year. The Board shall specify the term limit for ad-hoc team leaders of up to three consecutive years. Appointment as an Ad-Hoc Team Leader requires a two-thirds (2/3) vote of the Board. The Board shall reauthorize all Ad-Hoc Teams and their leaders on an annual basis. 
+
+> Lee: Comment: need to figure out how to say what is the renewal date. Is this a job for out going or incoming board? Maybe leave it unspecified for the Board to determine?
 
 ### Section C: Termination/Removal
 
-Removal for cause of a Team Leader requires a two-thirds (2/3) vote of the Board.
+Removal for cause of an Ad-Hoc Team Leader requires a two-thirds (2/3) vote of the Board.
 
 ### Section D: Team Leader Duties
 
 Team Leaders (or their representatives) shall:
 
 1. attend calendar planning meetings. The TLC will set the date, time and place for these meetings, 
-2. report monthly one week prior to their primary reporting group (The Board or the TLC)
+2. report monthly one week prior to their primary reporting group (The Board,  TLC or COM)
 3. submit all scheduled activities to the church office, 
-4. communicate with the PR team prior to independently publicizing upcoming events, 
+4. communicate with the PR team prior to independently publicizing upcoming events
 5. coordinate activities of the teams for which they are responsible, 
 6. submit fund raising recommendations and requests for funding adjustments to the Finance team, 
 7. submit to the Board an annual report twenty (20) days prior to the Annual Congregational Meeting.
 
+> Lee: Comment: need better language about how they work with their "primary reporting group"
+
 ### Section E: Team Duties
 
-1. **Finance Team:.** The Finance Team shall be responsible for all financial matters concerning the Church. It shall: 
+1. **Finance Team:.** 
 
 	1. Reports primarily to the Board
-	2. be led by the Treasurer
-	3. assist the Board in the formulation of the annual goal budget, prior to the Annual Canvass
-	4. assist in the periodic adjustment of the budget in terms of actual income
-	5. review all insurance policies and recommend any needed changes to the Board 
-	6. supervise payroll, retirement plan, and employee health insurance payments
-	7. select an individual or individuals who is/are neither treasurer, co-treasurer, or a board member to review the books annually
-	8. maintain current membership roster, updated annually in December with report to board to allow board to report accurate annual APF numbers to UUA
-	9. prepare a list of voting members at lease thirty (30) days before any congregational meeting that requires a vote.
+	2. Shall be led by the Treasurer
+	3. The Finance Team shall be responsible for all financial matters concerning the Church. 
+	4. Assist the Board in the formulation of the annual goal budget, prior to the Annual Canvass
+	5. Assist in the periodic adjustment of the budget in terms of actual income
+	6. Review all insurance policies and recommend any needed changes to the Board 
+	7. Supervise payroll, retirement plan, and employee health insurance payments
+	8. Select an individual or individuals who is/are neither treasurer, co-treasurer, or a board member to review the books annually
+	9. Maintain current membership roster, updated annually in December with report to board to allow board to report accurate annual APF numbers to UUA
+	10. Prepare a list of voting members at lease thirty (30) days before any congregational meeting that requires a vote.
 
-	> Lee: Job: Finance Leader on the Board #elected #0
-
-3. **Stewardship Team:** The Stewardship Team shall be
+2. **Stewardship Team:**
 
 	1. Reports to the Board
 	2. The Stewardship Leader shall be a member of the Board.
-	2. responsible for planning and implementing the annual every member canvass and canvassing new members.
-	3. oversee all fund raising drives and projects
+	3. responsible for planning and implementing the annual every member canvass and canvassing new members.
+	4. oversee all fund raising drives and projects
 
-	> Lee: Job: Stewardship Leader on the Board #elected #0
- 
-4. **Leadership Development Team**: The Leadership Development Team shall be composed of three Voting Members serving alternating terms of 3 years. The LDT shall :
-    
-    1. solicit qualified candidates for all team leaders, positions on the Board, TLC, and make any other leadership recommendations as requested by the Board. 
-    2. submit the names of nominees to the Board at least thirty (30) days before the annual Congregational Meeting. 
-    3. Be the responsibility of the Leadership Development Team to canvass the congregation and identify interested parties to fill open positions.
-    4. shall report to the Board
-    5. Act as the Facilitator for the TLC meetings and provide Mentorship to the TLC members
-    6. shall identify areas of skills development, make recommendations for trainings, and make leadership aware of learning opportunities provide by UUA, PWR, MDD and other resources. 
-    7. The LDT shall make assist teams with finding team members and volunteers. 
+3. **Leadership Development Team**: 
+
+    1. Reports to the Board
+    2. The Leadership Development Team shall be composed of three Voting Members serving alternating terms of 3 years.
+    3. solicit qualified candidates for all team leaders, positions on the Board, TLC, and make any other leadership recommendations as requested by the Board. 
+    4. submit the names of nominees to the Board at least thirty (30) days before the annual Congregational Meeting. 
+    5. Be the responsibility of the Leadership Development Team to canvass the congregation and identify interested parties to fill open positions.
+    6. Act as the Facilitator for the TLC meetings and provide Mentorship to the TLC members
+    7. shall identify areas of skills development, make recommendations for trainings, and make leadership aware of learning opportunities provide by UUA, PWR, MDD and other resources. 
+    8. The LDT shall assist the Board, TLC, COM Standing and Ad-Hoc Teams with finding team members and volunteers. 
 	
 	> Lee: Job: Leadership Development Team #elected #3	
 
-7. **Care Team:** The Care Team shall 
+4. **Care Team:** 
 
 	1. Shall report to the COM
-	2. Develop and provide a system to meet the needs of members and friends.
+	2. Shall be led by a designated member of COM
+	3. Develop and provide a system to meet the needs of members and friends.
 
-	> Lee: Job: Care Team Leader #elected #1		
+	> Lee: Comment: Not sure about the relationship with COM. Maybe reports to Minister or Board? 
 
-8. **Worship Team:** The Worship Team shall be responsible for assisting the minister in planning and conducting the regular worship services of the church. In the absence of a Minister, the Worship Team shall be responsible for worship services.
+5. **Worship Team:** 
 
 	1. Reports to TLC
+	2. Shall be led by a designated member of the TLC Leadership	
+	3. Shall be responsible for assisting the minister in planning and conducting the regular worship services of the church. 
+	4. In the absence of a Minister, the Worship Team shall be responsible for worship services.
 	
-	> Lee: Job: Worship Team Leader #elected #1	
-
-9. **Membership Team:** The Membership Team shall be responsible for welcoming and assimilating visitors, encouraging new members, and enrollment of new members. It shall 
+6. **Membership Team:** 
 
     1. Report to TLC
-    2. schedule orientation meetings periodically
-    2. provide for greeting and registering visitors and follow-up to interest them in becoming members
-    3. provide for refreshments and hospitality following Sunday Worship Services
-    4. provide new members with activities that will encourage their participation in the life of the church
+    2. Shall be led by a designated member of the TLC Leadership	
+    3. Shall be responsible for welcoming and assimilating visitors, encouraging new members, and enrollment of new members. 
+    3. schedule orientation meetings periodically
+    4. provide for greeting and registering visitors and follow-up to interest them in becoming members
+    5. provide for refreshments and hospitality following Sunday Worship Services
+    6. provide new members with activities that will encourage their participation in the life of the church
 
-	> Lee: Job: Membership Team Leader #elected #1
+> Lee: Job: Do we really *assimilate* visitors? Maybe I am too much of a Star Trek fan and worry about the Borg...
 
-
-11. **Religious Education Team (RE):** The RE team with separate Adult RE and Children’s RE leaders shall be responsible for the philosophy, content, planning and implementation of religious education curriculum and activities for all ages in coordination with the Director of Religious Education (DRE)
+7. **Religious Education Team (RE):** 
 
 	1. Reports to TLC
-
-	> Lee: Job: Children's RE Team Leader #elected #1	
+	2. Shall be led by a designated member of the TLC Leadership
+	3. Shall be responsible for the philosophy, content, planning and implementation of religious education curriculum and activities for all ages in coordination with the Minister and Religious Education Staff
 	
-	> Lee: Job: Adult RE Team Leader #elected #1	
+8. **Ad Hoc Teams:** The Board may appoint ad hoc teams  as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
 
-13. **Ad Hoc Teams:** The Board may appoint ad hoc teams  as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
+## Article IX: COMMITTEE ON MINISTRY (COM)
 
-## Article IX: COMMITTEE ON MINISTRY (COM) 
+> Lee: Comment: entire COM section to be REVIEWED at upcoming COM meeting
 
 The Committee on Ministry shall be made up of voting members of the Church, chosen by the Board and the Minister. If there is no Minister, the Board will select the COM's members. 
 
@@ -430,8 +440,6 @@ The Committee on Ministry shall be made up of voting members of the Church, chos
 3. Provide feedback to all Teams as related to the Ministry of the Church.
 4. Recognize and nurture the needs of the minister and to maintain a channel of communication between the minister and the congregation. In consultation with the minister, the COM shall recommend to the Finance Team a salary and benefits package for a minister who is continuously employed.
 5. The COM will create a safe place for Members to resolve conflicts. When conflicts include Leaders or the Minister, the COM will work to make the process fair to all parties. 
-
-> Lee: Job: Committee on Ministry Leader #elected #1
 
 
 ## Article XII: MINISTER
@@ -448,9 +456,10 @@ Only ministers who are in fellowship with the Unitarian Universalist Association
 
 The Minister shall be responsible for: 
 
-1. worship services, in collaboration with the Worship Team
-2. assisting in the development and implementation of the Religious Education program for youth and adults
+1. worship services in collaboration with the TLC and Worship Team
+2. assisting in the development and implementation of the Religious Education program for youth and adults in collaboration with the TLC, Religious Education Team and Religious Education Staff. 
 3. providing pastoral care to members as needed
+4. Collaboration with the Care Team
 4. conduction of ordinance of dedication, union and marriage ceremonies
 5. funeral and memorial services
 6. such other religious observances as she or he may deem suitable
@@ -460,6 +469,8 @@ The Minister shall be responsible for:
 ### Section D: Committee Membership
 
 The Minister shall be a non-voting ex-officio member of the Board, the TLC and all Standing or Ad-Hoc Teams. The Minister shall participate in the TLC's calendar planning sessions. Shall bring to the attention of the Board, TLC and COM all matters which seem pertinent to the general welfare of the congregation and shall make recommendations as seem proper. However, the decision in matters of policy and procedure shall remain with the Board.
+
+> Lee: Comment: need to better define role with COM
 
 ### Section E: Freedom of Expression
 
@@ -483,7 +494,7 @@ Should the Unitarian Universalist Congregation of the Grand Valley cease to func
 
 The Bylaws may be amended or replaced at the Annual Congregation Meeting or a Special Congregation Meeting of the Congregation, by a two-thirds (2/3) vote of those Voting Members present, providing that a quorum is present at the meeting. The notice of the meeting at which amendments will be considered shall include a copy of the proposed amendments. The text of any proposed amendment may be changed at the meeting prior to adoption by a simple majority vote of the voting members present.
 
-# Move to Policy 
+# Items to remove from Bylaws and move to Policy or other places
 
 ## Ad-Hoc Teams
 
@@ -494,4 +505,52 @@ The Bylaws may be amended or replaced at the Annual Congregation Meeting or a Sp
     3. assure the good management and stewardship of entrusted properties and resources
     4. identify problems related to the space rental or owned property and make recommendations to the Board
     5. shall be responsible for the maintenance and repair of any other real property or major equipment and furniture which the Congregation may own or acquire
+
+2. **Personnel Team:** The Personnel Team shall be composed of three Voting Members. The Personnel Team shall report to the Board and perform the following functions subject to Board approval 
+
+	1. create and update job descriptions for all paid positions as needed, 
+	2. conduct personnel search and interviewing of candidates in coordination with appropriate committees, 
+	3. make hiring recommendations to the Board, for Board action and/or approval, 
+	4. develop personnel policies and procedures, 
+	5. draft contracts and working agreements. 
+	6. develop an evaluation tool for each position, 
+	7. conduct periodic evaluations (annually at a minimum) and 
+	8. select a Web Editor to troubleshoot website or computer difficulties, and assist administrator in keeping website current
+
+3. **Long Range Planning Team:** The Long Range Planning Team shall develop a long range plan in keeping with the UUCGV Vision Statement.
+
+
+## Article X: ADMINISTRATOR
+
+The Administrator shall be responsible for: 
+
+1. maintaining the Church Membership Database. 
+2. assist membership committee in maintaining membership list
+3. remind board to submit current church information to UUA and MDD in December of each year
+4. assist Church webmaster in keeping church website current
+5. producing weekly Order of Service
+6. producing the Newsletter
+7. maintaining a planning calendar of all church events and coordinating building use with rental facility
+8. preparing mailings for Board of Trustees
+9. performing other office duties as required.
+
+
+## Article XI: DIRECTOR OF RELIGIOUS EDUCATION (DRE)
+
+The DRE is hired by the Board with recommendation from the Personnel Team.
+
+
+### Section A: Qualifications
+
+1. **Education:** Possession of or seeking a degree in education, child development, or child psychology is preferred; however, equivalent experience will be considered.
+
+2. **Experience:** Experience working with children and adults in an organizational setting or directing programs involving children.
+
+### Section B: Supervision
+
+The DRE is supervised by the Minister in conjunction with the Personnel Team, and is responsible to the Board of Trustees.
+
+### Section C: Professional Development
+
+Attend training (Renaissance Modules) and encourage teachers and parents to attend RE workshops at district and national levels. Encouraged to become member of Liberal Religious Educators Association (LREDA).
 
