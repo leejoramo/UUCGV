@@ -232,19 +232,19 @@ The executive committee of the Board shall include the President, Vice President
 
 3. **Treasurer:** 
 
-The Treasurer shall lead the Finance Team.
+	The Treasurer shall lead the Finance Team.
 
-The Treasurer shall be responsible for the excutution or delegation and oversight of the following tasks.
+	The Treasurer shall be responsible for the excutution or delegation and oversight of the following tasks.
 
-	2.  safely keep and account for all money and other property of the church entrusted to his or her care, and shall disburse the same under the direction of and to the satisfaction of the Board
+	1.  safely keep and account for all money and other property of the church entrusted to his or her care, and shall disburse the same under the direction of and to the satisfaction of the Board
 	2. maintain a current roster of the pledging units and their pledges
 	3. maintain a complete accounting of the financial record of the church which shall remain the property of the church, and which shall be open for inspection by any member of the church.  
 	4. shall ensure that all federal, state or local returns, reports or other items required by law are properly prepared and filed with the appropriate authorities in a timely manner. 
 	5. shall present a report of all transactions and of the financial status of the church at the monthly board meetings
 	6. shall prepare the annual financial report of the church for the annual congregational meeting. 
 	7. shall furnish a statement to all pledge units at least twice a year, detailing the status of their pledges. 
-	9. shall perform such other functions as may be specified by the Board. 
-	10. at the discretion of the Board the Treasurer shall be bonded by the church in such amount the Board may determine.
+	8. shall perform such other functions as may be specified by the Board. 
+	9. at the discretion of the Board the Treasurer shall be bonded by the church in such amount the Board may determine.
 
 4. ** Past-President**
 
@@ -491,6 +491,8 @@ A two-thirds (2/3) vote of the voting members of the congregation present and vo
 ## Article XIII DISSOLUTION
 
 Should the Unitarian Universalist Congregation of the Grand Valley cease to function and the membership vote to disband, all of its property, real and personal, after payment of all just claims upon it, shall be conveyed to and invested in, the Mountain Desert District of the Unitarian Universalist Association, or its legal successor. Trustees of UUCGV shall perform all actions necessary to effectuate such conveyance.
+
+---
 
 # Items to remove from Bylaws and move to Policy or other places
 
