@@ -148,11 +148,11 @@ A quorum for the annual congregational meeting, or for any special congregationa
 
 2. **Secret Ballots:** The vote on any matter shall be by secret ballot on the request of any member. Votes to call or dismiss a minister or assume a debt of over $5,000 shall be by secret ballot.
 
-3. **Voting Majorities:** A simple majority of the voting members present (including votes by proxy), providing that a quorum is present, will be sufficient to pass any item presented at the annual congregational meeting, or for any special congregational meeting, with the exceptions of 1) amendments to the bylaws 2) the calling of a minister, or 3) the dismissal of a minister, all of which shall require a two-thirds (2/3) vote.
+3. **Voting Majorities:** A simple majority of the voting members present (including votes by proxy), providing that a quorum is present, will be sufficient to pass any item presented at the annual congregational meeting, or for any special congregational meeting, with the exceptions of 1) alterations to the bylaws 2) the calling of a minister, or 3) the dismissal of a minister, all of which shall require a two-thirds (2/3) vote.
 
-### Section F: CHANGES TO THE BYLAWS
+### Section F: ALTERATIONS TO THE BYLAWS
 
-	> we don't actually admend our bylaws. We revise. put revision text here.
+The Bylaws may be altered or replaced at the Annual Congregation Meeting or a Special Congregation Meeting of the Congregation, by a two-thirds (2/3) vote of those Voting Members present, providing that a quorum is present at the meeting. The notice of the meeting at which alterations will be considered shall include a copy of the proposed changes. The text of any proposed alterations may be changed at the meeting prior to adoption by a simple majority vote of the voting members present.
 
 ## Article VII: BOARD OF TRUSTEES
 
@@ -492,14 +492,6 @@ A two-thirds (2/3) vote of the voting members of the congregation present and vo
 
 Should the Unitarian Universalist Congregation of the Grand Valley cease to function and the membership vote to disband, all of its property, real and personal, after payment of all just claims upon it, shall be conveyed to and invested in, the Mountain Desert District of the Unitarian Universalist Association, or its legal successor. Trustees of UUCGV shall perform all actions necessary to effectuate such conveyance.
 
-## Article XIV: AMENDMENTS
-
-> Move to Article VI: Meetings, Section F
-
-	> remove amendment 
-	
-The Bylaws may be amended or replaced at the Annual Congregation Meeting or a Special Congregation Meeting of the Congregation, by a two-thirds (2/3) vote of those Voting Members present, providing that a quorum is present at the meeting. The notice of the meeting at which amendments will be considered shall include a copy of the proposed amendments. The text of any proposed amendment may be changed at the meeting prior to adoption by a simple majority vote of the voting members present.
-
 # Items to remove from Bylaws and move to Policy or other places
 
 ## Ad-Hoc Teams
@@ -559,4 +551,12 @@ The DRE is supervised by the Minister in conjunction with the Personnel Team, an
 ### Section C: Professional Development
 
 Attend training (Renaissance Modules) and encourage teachers and parents to attend RE workshops at district and national levels. Encouraged to become member of Liberal Religious Educators Association (LREDA).
+
+## Article XIV: AMENDMENTS
+
+> Move to Article VI: Meetings, Section F
+
+	> remove amendment 
+	
+The Bylaws may be amended or replaced at the Annual Congregation Meeting or a Special Congregation Meeting of the Congregation, by a two-thirds (2/3) vote of those Voting Members present, providing that a quorum is present at the meeting. The notice of the meeting at which amendments will be considered shall include a copy of the proposed amendments. The text of any proposed amendment may be changed at the meeting prior to adoption by a simple majority vote of the voting members present.
 
