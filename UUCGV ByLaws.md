@@ -128,7 +128,7 @@ There shall be an annual congregational meeting, called and led by the Board, at
 
 1. **Date of meeting:** the annual congregational meeting shall be held each year in the month of May or June at such time and place as designated by the Board.
 
-2. **Purpose:** the purpose of the annual congregational meeting shall be to elect board officers and trustees, team leaders designated in the Bylaws, members of the Leadership Development Team, to adopt the budget for the following fiscal year, and to adopt the yearly reports of the Minister, officers and teams, and other business that may require a congregational vote.
+2. **Purpose:** the purpose of the annual congregational meeting shall be to elect board officers and trustees, TLC leaders, team leaders designated in the Bylaws, members of the Leadership Development Team, to adopt the budget for the following fiscal year, and to adopt the yearly reports of the Minister, officers and teams, and other business that may require a congregational vote.
 
 ### Section B: Special Congregational Meetings
 
@@ -252,20 +252,24 @@ The executive committee of the Board shall include the President, Vice President
 
 ### Section I: Other Trustee Duties and Responsibilities ###
 
-1. **Stewardship:** 
+1. **Stewardship Trustee:** 
 
-> Move stewardship leader to board. Need job description
+	1. Oversees the Stewardship Team
+	2. Represent Stewardship at the Board. 
 
-2. **Trustees At-Large**
+3. **Trustees At-Large**
 
-	1. task items
-	2. In the community & special tasks
+	1. Represents the Congregation at large
+	2. Fulfill Board assigned tasks as needed
 
 ## Article ???: Team Leadership Circle (TLC)
+
+The TLC shall administer and manage the Program of the church and its Calendar. Programs as defined here shall be those activities which put forward the ideals of the the Mission, Vision, and Principles which are the guide posts of UUCGV. 
 
 ### Section A: Qualifications
 
 Only voting members of the Church may serve on the TLC.
+
 
 ### Section B: Membership
 
@@ -276,7 +280,6 @@ There shall be six (6) TLC Leaders.
 ### Section C: Terms of Office
 
 The terms of office for the TLC Leaders shall be for one year, starting at the beginning of the fiscal year, July 1, and ending on June 30 of the following year. 
-
 
 
 ### Section D: Term Limits
@@ -296,23 +299,13 @@ Term limits for the TLC shall meet the following conditions:
 
 ### Section F: TLC Duties and Responsibilities
 
-The TLC shall administer and manage the Program of the church. The Board shall be responsible for: 
-
-1. monthly TLC meetings
-2. reports to the Board
+1. Hold monthly TLC meetings
+2. Report to the Board
 3. Collaborates with the Minister on Program related items.
-4. Collaborates with the Board and Minister to fullfil the Mission and Vision.
-5. co-ordinating the Program related activities of the Teams
-6. hold an annual meeting to create the Church Program Calendar and establish program goals and themes for the coming year. 
-7. recommending to the Board the creation of program related of ad-hoc teams
-
-> Lee: Comment:
-> As a guiding principle for the TLC's area of responsibility, if something:   
-> can be put on a calendar,
-> is related to the church program,
-> is not otherwise described in the Bylaws or Policy
->
-> Then it is the responsibility of the TLC.  
+4. Collaborates with the Board and Minister to fulfill the Mission and Vision.
+5. Co-ordinating the Program related activities of the Teams
+6. Hold an annual meeting to create the Church Program Calendar and establish program goals and themes for the coming year. This meeting shall occur after the Annual Congregational Meeting but before August 1st, and shall include both out going and incoming TLC members. 
+7. Recommend to the Board the creation of program related of Ad-Hoc teams and policies
 
 ## Article VIII: TEAMS
 
@@ -322,9 +315,7 @@ Standing Teams are described in the bylaws. The Leaders of Standing Teams are el
 
 Ad-Hoc Teams are created by the Board either via Policies and may be temporary or continuing in nature. Leaders of Ad-Hoc Teams are appointed by the Board. 
 
-> Lee: Note: will the TLC have the ability to create Ad-Hoc Teams? Maybe the TLC can propose Ad-Hoc Teams for approval of the Board. This allows the Board to review the proposed Ad-Hoc Team Leader for meeting the Qualifications. 
-
-As an obligation of membership, all church members must participate in church leadership or teams. Friends of the church are also encouraged to participate.
+As an obligation of membership, all church members must participate in church leadership, teams or volunteer their time. Friends of the church are also encouraged to participate.
 
 ### Section A: Qualifications
 
@@ -379,8 +370,10 @@ Team Leaders (or their representatives) shall:
 
 	1. Reports to the Board
 	2. The Stewardship Leader shall be a member of the Board.
-	3. responsible for planning and implementing the annual every member canvass and canvassing new members.
-	4. oversee all fund raising drives and projects
+	3. Responsible for planning and implementing the annual pledge campaign for members and  friends.
+	4. Works with the Membership Team to assess Time, Talent and Treasure  of new members.
+	5. Oversees all fund raising drives and projects
+	6. Contributes to the TLC's calendar planning
 
 3. **Leadership Development Team**: 
 
@@ -414,21 +407,22 @@ Team Leaders (or their representatives) shall:
 
     1. Report to TLC
     2. Shall be led by a designated member of the TLC Leadership	
-    3. Shall be responsible for welcoming and assimilating visitors, encouraging new members, and enrollment of new members. 
-    3. schedule orientation meetings periodically
-    4. provide for greeting and registering visitors and follow-up to interest them in becoming members
-    5. provide for refreshments and hospitality following Sunday Worship Services
-    6. provide new members with activities that will encourage their participation in the life of the church
-
-> Lee: Job: Do we really *assimilate* visitors? Maybe I am too much of a Star Trek fan and worry about the Borg...
+    3. Shall be responsible for welcoming visitors, encouraging new members, and enrollment of new members. 
+    4. schedule orientation meetings periodically
+    5. provide for greeting and registering visitors and follow-up to interest them in becoming members
+    7. provide new members with activities that will encourage their participation in the life of the church
 
 7. **Religious Education Team (RE):** 
 
 	1. Reports to TLC
 	2. Shall be led by a designated member of the TLC Leadership
 	3. Shall be responsible for the philosophy, content, planning and implementation of religious education curriculum and activities for all ages in coordination with the Minister and Religious Education Staff
+
+8. **Hospitality:**
+
+    1. provide for refreshments and hospitality following Sunday Worship Services 
 	
-8. **Ad Hoc Teams:** The Board may appoint ad hoc teams  as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
+9. **Ad Hoc Teams:** The Board may appoint ad hoc teams  as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
 
 ## Article IX: COMMITTEE ON MINISTRY (COM)
 
