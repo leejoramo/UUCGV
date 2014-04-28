@@ -158,7 +158,9 @@ The Bylaws may be altered or replaced at the Annual Congregation Meeting or a Sp
 
 ### Section A: Qualifications
 
-Only voting members of one (1) year or more in the Church may serve on the Board.
+Only voting members of one (1) year or more in the Church may serve on the Board, except in the case of youth members who shall become members prior to being voted into office.
+
+> Lee: Note: Abby suggested change for youth
 
 ### Section B: Membership
 
@@ -196,7 +198,7 @@ Term limits for the Board shall be two consecutive terms for officers and  for a
 
 The Board shall administer and manage the business of the church. The Board shall be responsible for: 
 
-1. monthly meetings
+1. holding monthly Board meetings
 2. financial oversight
 3. recommending the budget of the church
 4. seeking grants to further the work of the church
@@ -309,9 +311,11 @@ Term limits for the TLC shall meet the following conditions:
 
 ## Article VIII: TEAMS
 
-UUCGV is organized around Teams responsible for conducting the work of the Church. Teams will be defined to primarily report to the Board, the TLC, or COM.  
+UUCGV is organized around Teams responsible for conducting the work of the Church. Teams will be defined to primarily report to the Board, the TLC, or the Minister.  
 
 Standing Teams are described in the bylaws. The Leaders of Standing Teams are elected at the Annual Meeting and are subject Term Limits. 
+
+> Lee: Note: Rewrite
 
 Ad-Hoc Teams are created by the Board either via Policies and may be temporary or continuing in nature. Leaders of Ad-Hoc Teams are appointed by the Board. 
 
@@ -355,7 +359,7 @@ Team Leaders (or their representatives) shall:
 
 1. **Finance Team:.** 
 
-	1. Reports primarily to the Board
+	1. Reports to the Board
 	2. Shall be led by the Treasurer
 	3. The Finance Team shall be responsible for all financial matters concerning the Church. 
 	4. Assist the Board in the formulation of the annual goal budget, prior to the Annual Canvass
@@ -363,7 +367,7 @@ Team Leaders (or their representatives) shall:
 	6. Review all insurance policies and recommend any needed changes to the Board 
 	7. Supervise payroll, retirement plan, and employee health insurance payments
 	8. Select an individual or individuals who is/are neither treasurer, co-treasurer, or a board member to review the books annually
-	9. Maintain current membership roster, updated annually in December with report to board to allow board to report accurate annual APF numbers to UUA
+	9. Maintain current membership roster, updated annually in December with report to board to allow board to report accurate annual Annual Program Fund (APF) numbers to UUA
 	10. Prepare a list of voting members at lease thirty (30) days before any congregational meeting that requires a vote.
 
 2. **Stewardship Team:**
@@ -390,16 +394,16 @@ Team Leaders (or their representatives) shall:
 
 4. **Care Team:** 
 
-	1. Shall report to the COM
-	2. Shall be led by a designated member of COM
+	1. Shall report to the Minister.
+	2. Shall be led by voting member of the Church, chosen by the Board and the Minister. 
+	3. If there is no Minister, the Board will select the Leader, and the Care Team shall report to the Board.
 	3. Develop and provide a system to meet the needs of members and friends.
 
-	> Lee: Comment: Not sure about the relationship with COM. Maybe reports to Minister or Board? 
 
 5. **Worship Team:** 
 
 	1. Reports to TLC
-	2. Shall be led by a designated member of the TLC Leadership	
+	2. Shall be led by a designated member of the TLC Leadership
 	3. Shall be responsible for assisting the minister in planning and conducting the regular worship services of the church. 
 	4. In the absence of a Minister, the Worship Team shall be responsible for worship services.
 	
@@ -422,19 +426,16 @@ Team Leaders (or their representatives) shall:
 
     1. provide for refreshments and hospitality following Sunday Worship Services 
 	
-9. **Ad Hoc Teams:** The Board may appoint ad hoc teams  as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
+9. **Ad Hoc Teams:** The Board may appoint ad hoc teams as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
 
 ## Article IX: COMMITTEE ON MINISTRY (COM)
-
-> Lee: Comment: entire COM section to be REVIEWED at upcoming COM meeting
 
 The Committee on Ministry shall be made up of voting members of the Church, chosen by the Board and the Minister. If there is no Minister, the Board will select the COM's members. 
 
 > Committees on Ministry tracks the heartbeat of ministry within a congregation; how the members take care of themselves and each other, how the lay ministerial leadership serves a congregation; and how the called minister serves the congregation. It seeks to understand, assess, support, and advocate for robust ministry throughout the context of congregational life.
  
 
-1. Support the physical and emotional needs of the Members through the Care Team
-2. Facilitate the Beloved Community process to promote our Covenant of Right Relations. Explains and publics the Beloved Community Process to the membership. 
+2. Facilitate the Beloved Community process to promote our Covenant of Right Relations. Explains and publicizes the Beloved Community Process to the membership. 
 3. Provide feedback to all Teams as related to the Ministry of the Church.
 4. Recognize and nurture the needs of the minister and to maintain a channel of communication between the minister and the congregation. In consultation with the minister, the COM shall recommend to the Finance Team a salary and benefits package for a minister who is continuously employed.
 5. The COM will create a safe place for Members to resolve conflicts. When conflicts include Leaders or the Minister, the COM will work to make the process fair to all parties. 
@@ -454,21 +455,19 @@ Only ministers who are in fellowship with the Unitarian Universalist Association
 
 The Minister shall be responsible for: 
 
-1. worship services in collaboration with the TLC and Worship Team
-2. assisting in the development and implementation of the Religious Education program for youth and adults in collaboration with the TLC, Religious Education Team and Religious Education Staff. 
-3. providing pastoral care to members as needed
+1. Worship services in collaboration with the TLC and Worship Team
+2. Assisting in the development and implementation of the Religious Education program for youth and adults in collaboration with the TLC, Religious Education Team and Religious Education Staff. 
+3. Providing pastoral care to members as needed
 4. Collaboration with the Care Team
-4. conduction of ordinance of dedication, union and marriage ceremonies
-5. funeral and memorial services
-6. such other religious observances as she or he may deem suitable
-7. attending and reporting at the monthly Board, TLC and COM meetings 
-8. make a report to the Congregation at the annual congregational meeting.
+4. Conduction of ordinance of dedication, union and marriage ceremonies
+5. Funeral and memorial services
+6. Such other religious observances as she or he may deem suitable
+7. Attending and reporting at the regular Board, TLC and COM meetings 
+8. Make a report to the Congregation at the annual congregational meeting.
 
 ### Section D: Committee Membership
 
-The Minister shall be a non-voting ex-officio member of the Board, the TLC and all Standing or Ad-Hoc Teams. The Minister shall participate in the TLC's calendar planning sessions. Shall bring to the attention of the Board, TLC and COM all matters which seem pertinent to the general welfare of the congregation and shall make recommendations as seem proper. However, the decision in matters of policy and procedure shall remain with the Board.
-
-> Lee: Comment: need to better define role with COM
+The Minister shall be a non-voting ex-officio member of the Board, the TLC and all Standing or Ad-Hoc Teams. The Minister shall participate in the TLC's calendar planning sessions. Shall bring to the attention of the Board, TLC, COM and other teams all matters which seem pertinent to the general welfare of the congregation and shall make recommendations as seem proper. However, the decision in matters of policy and procedure shall remain with the Board.
 
 ### Section E: Freedom of Expression
 
