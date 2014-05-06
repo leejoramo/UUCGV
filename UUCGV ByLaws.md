@@ -128,11 +128,11 @@ There shall be an annual congregational meeting, called and led by the Board, at
 
 1. **Date of meeting:** the annual congregational meeting shall be held each year in the month of May or June at such time and place as designated by the Board.
 
-2. **Purpose:** the purpose of the annual congregational meeting shall be to elect board officers and trustees, TLC leaders, team leaders designated in the Bylaws, members of the Leadership Development Team, to adopt the budget for the following fiscal year, and to adopt the yearly reports of the Minister, officers and teams, and other business that may require a congregational vote.
+2. **Purpose:** the purpose of the annual congregational meeting shall be to elect board officers and trustees, TLC leaders, members of the Leadership Development Team, to adopt the budget for the following fiscal year, and to adopt the yearly reports of the Minister, officers and teams, and other business that may require a congregational vote.
 
 ### Section B: Special Congregational Meetings
 
-Special congregational meetings may be called by the Board when deemed necessary, or in the event that ten percent (10%) of the voting members submit a written request stating the purpose for the meeting.
+Special congregational meetings may be called by the Board when deemed necessary, or in the event that ten percent (10%) of the voting members submit a written request to the Board stating the purpose for the meeting.
 
 ### Section C: Notice of Meetings
 
@@ -213,6 +213,7 @@ The Board shall administer and manage the business of the church. The Board shal
 13. communicating with teams 
 14. reviewing and approving policies and procedures. 
 15. receiving recommendations for agenda items and setting agenda items
+16. Long Range Planning to ensure UUCGV fulfills the Mission, Vision and Principles. 
 
 ### Section G: Executive Committee
 
@@ -313,11 +314,13 @@ Term limits for the TLC shall meet the following conditions:
 
 UUCGV is organized around Teams responsible for conducting the work of the Church. Teams will be defined to primarily report to the Board, the TLC, or the Minister.  
 
-Standing Teams are described in the bylaws. The Leaders of Standing Teams are elected at the Annual Meeting and are subject Term Limits. 
+Standing Teams are described in these bylaws. The Leaders of Standing Teams are elected at the Annual Meeting and are subject to  Term Limits as set out herein. 
 
-> Lee: Note: Rewrite
+Ad-Hoc Teams report to the Board or TLC and are created in the following ways:
 
-Ad-Hoc Teams are created by the Board either via Policies and may be temporary or continuing in nature. Leaders of Ad-Hoc Teams are appointed by the Board. 
+1. TEMPORARY AD-HOC: The Board or TLC creates a temporary Ad-Hoc Team to fulfill their duties, provided the Team is overseen by the Board and/or the TLC. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished.
+ 
+2. CONTINUING AD-HOC: The Board also creates, via Policies, Ad-Hoc Teams that are recurring in nature. Leaders of such Ad-Hoc Teams are appointed by the Board. The TLC can recommend the creation of Ad-Hoc Teams to the Board. Continuing Ad Hoc Teams must be re-authorized on an annual basis.
 
 As an obligation of membership, all church members must participate in church leadership, teams or volunteer their time. Friends of the church are also encouraged to participate.
 
@@ -346,14 +349,12 @@ Removal for cause of an Ad-Hoc Team Leader requires a two-thirds (2/3) vote of t
 Team Leaders (or their representatives) shall:
 
 1. attend calendar planning meetings. The TLC will set the date, time and place for these meetings, 
-2. report monthly one week prior to their primary reporting group (The Board,  TLC or COM)
+2. report monthly to their primary reporting group (The Board,  TLC or Minister)
 3. submit all scheduled activities to the church office, 
-4. communicate with the PR team prior to independently publicizing upcoming events
+4. publicize upcoming events in accordance with the publicity policy
 5. coordinate activities of the teams for which they are responsible, 
 6. submit fund raising recommendations and requests for funding adjustments to the Finance team, 
 7. submit to the Board an annual report twenty (20) days prior to the Annual Congregational Meeting.
-
-> Lee: Comment: need better language about how they work with their "primary reporting group"
 
 ### Section E: Team Duties
 
@@ -367,16 +368,15 @@ Team Leaders (or their representatives) shall:
 	6. Review all insurance policies and recommend any needed changes to the Board 
 	7. Supervise payroll, retirement plan, and employee health insurance payments
 	8. Select an individual or individuals who is/are neither treasurer, co-treasurer, or a board member to review the books annually
-	9. Maintain current membership roster, updated annually in December with report to board to allow board to report accurate annual Annual Program Fund (APF) numbers to UUA
-	10. Prepare a list of voting members at lease thirty (30) days before any congregational meeting that requires a vote.
-
+	9. Provide Membership with a list of Members who have made contributions of record for the current year.
+	
 2. **Stewardship Team:**
 
 	1. Reports to the Board
 	2. The Stewardship Leader shall be a member of the Board.
 	3. Responsible for planning and implementing the annual pledge campaign for members and  friends.
 	4. Works with the Membership Team to assess Time, Talent and Treasure  of new members.
-	5. Oversees all fund raising drives and projects
+	5. Oversees fund raising drives and projects year round.
 	6. Contributes to the TLC's calendar planning
 
 3. **Leadership Development Team**: 
@@ -385,19 +385,18 @@ Team Leaders (or their representatives) shall:
     2. The Leadership Development Team shall be composed of three Voting Members serving alternating terms of 3 years.
     3. solicit qualified candidates for all team leaders, positions on the Board, TLC, and make any other leadership recommendations as requested by the Board. 
     4. submit the names of nominees to the Board at least thirty (30) days before the annual Congregational Meeting. 
-    5. Be the responsibility of the Leadership Development Team to canvass the congregation and identify interested parties to fill open positions.
-    6. Act as the Facilitator for the TLC meetings and provide Mentorship to the TLC members
-    7. shall identify areas of skills development, make recommendations for trainings, and make leadership aware of learning opportunities provide by UUA, PWR, MDD and other resources. 
-    8. The LDT shall assist the Board, TLC, COM Standing and Ad-Hoc Teams with finding team members and volunteers. 
+    5. Act as the Facilitator for the TLC meetings and provide Mentorship to the TLC members
+    6. shall identify areas of skills development, make recommendations for trainings, and make leadership aware of learning opportunities provided by UUA, PWR, MDD and other resources. 
+    7. The LDT shall assist the Board, TLC, COM Standing and Ad-Hoc Teams with finding team members and volunteers. 
 	
 	> Lee: Job: Leadership Development Team #elected #3	
 
 4. **Care Team:** 
 
 	1. Shall report to the Minister.
-	2. Shall be led by voting member of the Church, chosen by the Board and the Minister. 
+	2. Shall be led by Voting Member, chosen by the Board and the Minister. 
 	3. If there is no Minister, the Board will select the Leader, and the Care Team shall report to the Board.
-	3. Develop and provide a system to meet the needs of members and friends.
+	4. Develop and provide a system to meet the special needs of members and friends.
 
 
 5. **Worship Team:** 
@@ -406,27 +405,32 @@ Team Leaders (or their representatives) shall:
 	2. Shall be led by a designated member of the TLC Leadership
 	3. Shall be responsible for assisting the minister in planning and conducting the regular worship services of the church. 
 	4. In the absence of a Minister, the Worship Team shall be responsible for worship services.
+	5. Provide for greeters
 	
 6. **Membership Team:** 
 
-    1. Report to TLC
+    1. Reports to TLC
     2. Shall be led by a designated member of the TLC Leadership	
     3. Shall be responsible for welcoming visitors, encouraging new members, and enrollment of new members. 
-    4. schedule orientation meetings periodically
-    5. provide for greeting and registering visitors and follow-up to interest them in becoming members
-    7. provide new members with activities that will encourage their participation in the life of the church
+    4. Schedules orientation classes 
+    5. Registers visitors and conducts follow-up to interest them in becoming members
+    6. Provides new members with activities that will encourage their participation in the life of the church
+    7. Maintains current membership roster, updated annually in December with report to board to allow board to report accurate annual Annual Program Fund (APF) numbers to UUA
+    8. Prepares a list of voting members at least thirty (30) days before any congregational meeting that requires a vote.
 
 7. **Religious Education Team (RE):** 
 
 	1. Reports to TLC
-	2. Shall be led by a designated member of the TLC Leadership
-	3. Shall be responsible for the philosophy, content, planning and implementation of religious education curriculum and activities for all ages in coordination with the Minister and Religious Education Staff
+	2. Shall be led by RE Staff or a designated member of the TLC Leadership
+	3. Shall be responsible for the philosophy, content, planning and implementation of religious education curriculum and activities for all ages in coordination with the Minister and RE Staff
 
-8. **Hospitality:**
+8. **Celebrations:**
 
-    1. provide for refreshments and hospitality following Sunday Worship Services 
-	
-9. **Ad Hoc Teams:** The Board may appoint ad hoc teams as deemed necessary. Such teams shall cease to exist when the purpose for which they were appointed has been accomplished. Continuing Ad Hoc Teams must be re-authorized on an annual basis. 
+    1. Reports to TLC
+    2. Provides for refreshments and hospitality following Sunday Worship Services 
+    3. Responsible for planning festivities to engage the congregation and build community.
+    4. Co-ordinate our traditional or long-standing events such as Easter Potluck, Sundae Sunday, Camping Trips, etc. 
+ 
 
 ## Article IX: COMMITTEE ON MINISTRY (COM)
 
@@ -440,6 +444,7 @@ The Committee on Ministry shall be made up of voting members of the Church, chos
 4. Recognize and nurture the needs of the minister and to maintain a channel of communication between the minister and the congregation. In consultation with the minister, the COM shall recommend to the Finance Team a salary and benefits package for a minister who is continuously employed.
 5. The COM will create a safe place for Members to resolve conflicts. When conflicts include Leaders or the Minister, the COM will work to make the process fair to all parties. 
 
+> Joanie: Note: COM provides a sounding board for Minister
 
 ## Article XII: MINISTER
 
@@ -463,9 +468,9 @@ The Minister shall be responsible for:
 5. Funeral and memorial services
 6. Such other religious observances as she or he may deem suitable
 7. Attending and reporting at the regular Board, TLC and COM meetings 
-8. Make a report to the Congregation at the annual congregational meeting.
+8. Submit to the Board an annual report twenty (20) days prior to the Annual Congregational Meeting.
 
-### Section D: Committee Membership
+### Section D: Team Membership
 
 The Minister shall be a non-voting ex-officio member of the Board, the TLC and all Standing or Ad-Hoc Teams. The Minister shall participate in the TLC's calendar planning sessions. Shall bring to the attention of the Board, TLC, COM and other teams all matters which seem pertinent to the general welfare of the congregation and shall make recommendations as seem proper. However, the decision in matters of policy and procedure shall remain with the Board.
 
